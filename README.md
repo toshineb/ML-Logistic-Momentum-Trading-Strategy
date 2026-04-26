@@ -272,5 +272,3 @@ cfg.delta = 0.10  # Raise to 10% annualized (harder target)
 - **Beaudan, O., & He, K. (2019).** _Applying Machine Learning to Trading Strategies: Using Logistic Regression to Build Momentum-based Trading Strategies._ Available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3416507
 - **Arnott, R. D., Beck, S. L., Kalesnik, V., & West, J. (2016).** _How Can 'Machine Learning' Improve Finance?_ Research Affiliates Publications.
 - **Goyal, A., & Welch, I. (2008).** _A Comprehensive Look at the Empirical Performance of Equity Premium Prediction._ Review of Financial Studies, 21(4), 1455–1508.
-
-# ML-Logistic-Momentum-Trading-Strategy
